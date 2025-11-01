@@ -22,4 +22,4 @@ Right now I'm also learning:
 **Email:**
 [lilacmahnke@gmail.com](mailto:lilacmahnke@gmail.com)
 **LinkedIn:**
-(https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lila-mahnke-b488ba35b)
+(https://www.linkedin.com/in/lila-mahnke-b488ba35b)
